@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Climate+Crisis&family=Crimson+Text&family=Dancing+Script:wght@600&family=Phudu:wght@300&family=Shantell+Sans:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cinzel:wght@500&family=Climate+Crisis&family=Crimson+Text&family=Dancing+Script:wght@600&family=Phudu:wght@300&family=Shantell+Sans:wght@300&display=swap");
+.destination {
+  font-family: "Dancing Script" !important;
+  /* font-size: 50px !important; */
+  color: rgb(41, 40, 41);
+}
+.a {
+  overflow: hidden;
+}
+.b {
+  transition: transform 1s;
+}
+.a:hover .b {
+  transform: scale(1.2);
+}
+.size {
+  font-family: "Cinzel", serif;
+  font-size: 51px !important;
+}
+.bg {
+  background-color: rgba(8, 8, 8, 0.041) !important;
+}
+.btn:hover {
+  background-color: rgba(8, 8, 8, 0.979) !important;
+  color: white !important;
+}
+/* .row .img-fluid{
+    display: block;
+    width: 100%;
+    height: auto;
+
+}
+ .row .zoomin .img-fluid{
+    transform: scale(1);
+    transition: 0.3s;
+ }
+ .row .zoomin:hover .img-fluid{
+transform: scale(1.5);} */
+ 

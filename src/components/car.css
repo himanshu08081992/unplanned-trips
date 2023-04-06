@@ -1,0 +1,5 @@
+.carousel-item img{
+    height: 90vh !important;
+    width: 100% !important;
+    filter: brightness(50%);
+}
